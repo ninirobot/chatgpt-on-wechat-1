@@ -35,6 +35,8 @@ broadscope_bailian
 
 # google
 google-generativeai
+google-genai
+generative-ai-python@imagen
 
 # dingtalk
 dingtalk_stream
